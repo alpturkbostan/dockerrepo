@@ -1,5 +1,7 @@
 FROM alpts/ubunturepo
 
-CMD ["ping", "localhost", "-c", "100"]
+CMD ["ping", "google.com", "-c", "100"]
+
+
 
 
